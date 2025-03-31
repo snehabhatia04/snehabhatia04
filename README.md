@@ -2,7 +2,7 @@
 - 👀 I’m interested in ai-ml, web dev, and cloud computing
 - 🌱 I’m currently learning ai-ml using python
 - 💞️ I’m looking to collaborate on ...
-- 📫 Email: snehabhatia2004@outlook.com
+- 📫 Email: snehabhatia2004@gmail.com
 
 <!---
 snehabhatia04/snehabhatia04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
